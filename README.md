@@ -20,7 +20,7 @@ A powerful Python application that combines AI-powered background removal with m
 # EASY INSTALL
 
 ```bash
-git clone https://github.com/yourusername/AI-Background-Remover-Inpaint-Editor.git
+git clone https://github.com/RedsAnalysis/AI-Background-Remover-Inpaint-Editor.git
 cd AI-Background-Remover-Inpaint-Editor
 ./setup.sh
 source venv/bin/activate
@@ -30,7 +30,7 @@ python app.py
 # MANUAL INSTALL
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AI-Background-Remover-Inpaint-Editor.git
+git clone https://github.com/RedsAnalysis/AI-Background-Remover-Inpaint-Editor.git
 cd AI-Background-Remover-Inpaint-Editor
 ```
 
