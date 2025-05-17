@@ -17,6 +17,17 @@ A powerful Python application that combines AI-powered background removal with m
 
 ## Installation
 
+# EASY INSTALL
+
+```bash
+git clone https://github.com/yourusername/AI-Background-Remover-Inpaint-Editor.git
+cd AI-Background-Remover-Inpaint-Editor
+./setup.sh
+source venv/bin/activate
+python app.py
+```
+
+# MANUAL INSTALL
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/AI-Background-Remover-Inpaint-Editor.git
@@ -100,10 +111,10 @@ pip install -r requirements.txt
 ## Requirements
 
 See requirements.txt for detailed package dependencies. Key dependencies include:
-- rembg: For background removal
+- rembg & transparent_background: For background removal
 - gradio: For the web interface
 - Pillow: For image processing
-- torch: For AI model operations
+- torch & onnxruntime: For AI model operations
 
 ## Contributing
 
