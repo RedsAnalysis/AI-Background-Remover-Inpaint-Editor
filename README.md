@@ -13,7 +13,7 @@ A powerful Python application that combines AI-powered background removal with m
 - 🌐 User-friendly web interface
 - 🚀 Real-time processing
 - 💾 Support for multiple image formats
-- 🔧 Adjustable AI model parameters
+- 🔧 Multiple AI models to choose from
 
 ## Installation
 
