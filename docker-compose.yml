@@ -1,0 +1,11 @@
+services:
+  ai-bg-remover:
+    build: . # Use '.' if Dockerfile is in the same directory
+    container_name: ai_bg_remover_service
+    ports:
+      - "7860:7860"
+    volumes:
+      - ./temp_outputs_gradio_host:/app/temp_outputs_gradio 
+    environment:
+      - GRADIO_SERVER_NAME=0.0.0.0  # <<< ADD THIS LINE
+      - GRADIO_SERVER_PORT=7860
