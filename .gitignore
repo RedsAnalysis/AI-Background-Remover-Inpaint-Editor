@@ -31,6 +31,7 @@ ENV/
 models/
 temp/
 temp_outputs_gradio/
+temp_outputs_gradio_host/
 logs/
 output/
 

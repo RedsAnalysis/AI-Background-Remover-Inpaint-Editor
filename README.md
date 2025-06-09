@@ -6,6 +6,8 @@
 
 A powerful Python application that combines AI-powered background removal with manual inpainting tools, providing a user-friendly web interface built with Gradio. Perfect for photographers, designers, and anyone needing quick and professional image editing capabilities.
 
+![Application Screenshot](./ai_bg_rm.png)
+
 ## Features
 
 - 🎯 AI-powered background removal
